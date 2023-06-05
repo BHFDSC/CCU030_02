@@ -1,4 +1,4 @@
-# Autism (title TBC)
+# Examining potential factors underlying the increased risk of severe COVID-19 experienced by people with Autism Spectrum Disorder (ASD) 
 
 ## Project description
 
