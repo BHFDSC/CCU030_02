@@ -12,10 +12,10 @@ The current study sought to investigate the differences in COVID-19 hospitalisat
 ## How to cite this work
 > Citation to follow
 
-## Code
+## Contents
 
-* Click [here] to view the analysis code used in NHS Digital's TRE for England.
-* Phenotyping algorithms and codelists used in NHS Digital's TRE for England are available [here]
+* [View the analysis code used in NHS England's SDE for England](https://github.com/BHFDSC/CCU0030_02/tree/main/code)
+* [View the phenotyping algorithms and codelists used in NHS England's SDE for England](https://github.com/BHFDSC/CCU030_02/tree/main/phenotypes)
 
 ## Project approval
 
