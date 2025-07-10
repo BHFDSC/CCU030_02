@@ -1,4 +1,6 @@
-# Examining potential factors underlying the increased risk of severe COVID-19 experienced by people with Autism Spectrum Disorder (ASD) 
+# Examining potential factors underlying the increased risk of severe COVID-19 experienced by people with Autism Spectrum Disorder (ASD)
+
+**Dewy Nijhof, Filip Sosenko, Daniel Mackay, Michael Fleming, Bhautesh D. Jani, Jill P Pell, Chris Hatton, Deborah Cairns, Angela Henderson, Laura McKernan Ward, Ewelina Rydzewska, Maria Gardani, Elliot Millington, Craig Melville, on behalf of the CVD-COVID-UK/COVID-IMPACT Consortium**
 
 ## Project description
 
@@ -10,7 +12,7 @@ The current study sought to investigate the differences in COVID-19 hospitalisat
 
 
 ## How to cite this work
-> Citation to follow
+Nijhof, D., Sosenko, F., Mackay, D. et al. A Population-Based Cross-Sectional Investigation of COVID-19 Hospitalizations and Mortality Among Autistic People. J Autism Dev Disord (2025). https://doi.org/10.1007/s10803-025-06844-6
 
 ## Contents
 
